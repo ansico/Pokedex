@@ -27,6 +27,7 @@ Pokedex uses different types of technologies:
 - [TypeScript] - TypeScript is a programming language developed and maintained by Microsoft.
 - [node.js] - Evented I/O for the backend
 - [Netlify] - Netlify is a San Francisco-based cloud computing company that offers serverless backend services for web applications
+- [PokeAPI] - The RESTful Pokémon API
 
 And of course Pokedex itself is open source on GitHub.
 
@@ -54,5 +55,6 @@ MIT
    [Netlify]: <https://www.netlify.com/>
    [Angular]: <https://angular.io/>
    [TypeScript]: <https://www.typescriptlang.org/>
+   [PokeAPI]: <https://pokeapi.co/>
 
 
