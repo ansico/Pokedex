@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+.container {
+    background-color:rgb(32,32,32);
+    color: rgb(255,255,255);
+}
+
+.table{
+    color: rgb(255,255,255);
+}
